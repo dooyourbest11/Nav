@@ -222,7 +222,7 @@ const { categories, title, loading, error, fetchCategories } = useNavigation()
 
 // 响应式数据
 const searchQuery = ref('') // 搜索查询
-const selectedEngine = ref('bing') // 选中的搜索引擎
+const selectedEngine = ref('google') // 选中的搜索引擎
 const showMobileMenu = ref(false) // 移动端菜单显示状态
 
 // 锁定功能相关
