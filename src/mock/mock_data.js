@@ -11,21 +11,21 @@ export const mockData = {
           "name": "Google",
           "url": "https://www.google.com",
           "description": " ",
-          "icon": "/sitelogo/chatgpt.com.ico"
+          "icon": "/sitelogo/www.google.com.ico"
         },
         {
           "id": "Yandex",
           "name": "Yandex",
           "url": "https://www.yandex.com",
           "description": " ",
-          "icon": "/sitelogo/linux.do.ico"
+          "icon": "/sitelogo/www.yandex.com.ico"
         },
         {
           "id": "zhihu",
           "name": "知乎",
           "url": "https://www.zhihu.com",
           "description": " ",
-          "icon": "/sitelogo/www.bejson.com.ico"
+          "icon": "/sitelogo/www.zhihu.com.ico"
         },
         {
           "id": "github",
@@ -39,7 +39,7 @@ export const mockData = {
           "name": "Boss直聘",
           "url": "https://www.zhipin.com/",
           "description": " ",
-          "icon": "/sitelogo/curlconverter.com.ico"
+          "icon": "/sitelogo/www.zhipin.com.ico"
         }
       ]
     },
@@ -54,35 +54,35 @@ export const mockData = {
           "name": "DeepSeek",
           "url": "https://www.volcengine.com/experience/ark?model=deepseek-r1-250528",
           "description": "",
-          "icon": "/sitelogo/chat.openai.com.ico"
+          "icon": "/sitelogo/www.volcengine.com.ico"
         },
         {
           "id": "DeepResearch",
           "name": "DeepResearch",
           "url": "https://metaso.cn/",
           "description": "",
-          "icon": "/sitelogo/claude.ai.ico"
+          "icon": "/sitelogo/metaso.cn.ico"
         },
         {
           "id": "HuoShan",
           "name": "火山引擎",
           "url": "https://www.volcengine.com/",
           "description": "",
-          "icon": "/sitelogo/www.midjourney.com.ico"
+          "icon": "/sitelogo/www.volcengine.com.ico"
         },
         {
           "id": "aws",
           "name": "Aws",
           "url": "https://aws.com/",
           "description": "",
-          "icon": "/sitelogo/github.com.ico"
+          "icon": "/sitelogo/aws.com.ico"
         },
         {
           "id": "cloudflare",
           "name": "Cloudflare",
           "url": "https://dash.cloudflare.com/",
           "description": "",
-          "icon": "/sitelogo/cursor.sh.ico"
+          "icon": "/sitelogo/dash.cloudflare.com.ico"
         }
       ]
     },
@@ -97,56 +97,55 @@ export const mockData = {
           "name": "B站",
           "url": "https://www.bilibili.com/",
           "description": "",
-          "icon": "/sitelogo/www.cloudflare.com.ico"
+          "icon": "/sitelogo/www.bilibili.com.ico"
         },
         {
           "id": "Youtube",
           "name": "Youtube",
           "url": "https://www.youtube.com/",
           "description": "",
-          "icon": "/sitelogo/vercel.com.ico"
+          "icon": "/sitelogo/www.youtube.com.ico"
         },
         {
           "id": "TopHub",
           "name": "今日新闻",
           "url": "https://tophub.today/",
           "description": "",
-          "icon": "/sitelogo/aws.amazon.com.ico"
+          "icon": "/sitelogo/tophub.today.ico"
         },
         {
           "id": "TV",
           "name": "电视剧站",
           "url": "https://www.youknow.tv/",
           "description": "",
-          "icon": "/sitelogo/www.aliyun.com.ico"
+          "icon": "/sitelogo/www.youknow.tv.ico"
         },
         {
           "id": "Linuxdo",
           "name": "Linuxdo",
           "url": "https://linux.do/",
           "description": "",
-          "icon": "/sitelogo/cloud.tencent.com.ico"
+          "icon": "/sitelogo/linux.do.ico"
         },
         {
           "id": "NGA",
           "name": "NGA",
           "url": "https://bbs.nga.cn/",
           "description": "",
-          "icon": "/sitelogo/cloud.tencent.com.ico"
+          "icon": "/sitelogo/bbs.nga.cn.ico"
         },
         {
           "id": "Xiaohongshu",
           "name": "小红书",
-          "url": "https://www.xiaohongshu.com/explore",
-          "description": "",
-          "icon": "/sitelogo/cloud.tencent.com.ico"
+          "url": "https://www.xiaohongshu.com",
+          "description": ""
         }
       ]
     },
     {
       "id": "cloud",
       "name": "产品调研",
-      "icon": "☁️",
+      "icon": "📁",
       "order": 3,
       "sites": [
         {
@@ -154,49 +153,49 @@ export const mockData = {
           "name": "AI工具集",
           "url": "https://ai-bot.cn",
           "description": "",
-          "icon": "/sitelogo/www.cloudflare.com.ico"
+          "icon": "/sitelogo/ai-bot.cn.ico"
         },
         {
           "id": "Coze",
           "name": "扣子",
           "url": "https://www.coze.cn/home",
           "description": "",
-          "icon": "/sitelogo/vercel.com.ico"
+          "icon": "/sitelogo/www.coze.cn.ico"
         },
         {
           "id": "Dify",
           "name": "Dify",
           "url": "https://cloud.dify.ai/apps",
           "description": "",
-          "icon": "/sitelogo/aws.amazon.com.ico"
+          "icon": "/sitelogo/cloud.dify.ai.ico"
         },
         {
           "id": "Baidu",
           "name": "飞桨社区",
           "url": "https://aistudio.baidu.com/projectoverview",
           "description": "",
-          "icon": "/sitelogo/www.aliyun.com.ico"
+          "icon": "/sitelogo/aistudio.baidu.com.ico"
         },
         {
           "id": "zhipu",
           "name": "GLM智谱",
           "url": "https://chat.z.ai/",
           "description": "",
-          "icon": "/sitelogo/cloud.tencent.com.ico"
+          "icon": "/sitelogo/chat.z.ai.ico"
         },
         {
           "id": "Gemini",
           "name": "Gemini",
           "url": "https://gemini.google.com/app?hl=en",
           "description": "",
-          "icon": "/sitelogo/cloud.tencent.com.ico"
+          "icon": "/sitelogo/gemini.google.com.ico"
         },
         {
           "id": "Meitu",
           "name": "美图AI",
           "url": "https://www.whee.com/",
           "description": "",
-          "icon": "/sitelogo/cloud.tencent.com.ico"
+          "icon": "/sitelogo/www.whee.com.ico"
         }
       ]
     },
@@ -211,28 +210,64 @@ export const mockData = {
           "name": "IP-Checker",
           "url": "https://www.vps234.com/ipchecker/",
           "description": "",
-          "icon": "/sitelogo/figma.com.ico"
+          "icon": "/sitelogo/www.vps234.com.ico"
         },
         {
           "id": "Mainvps",
           "name": "主机场",
           "url": "https://gsouoit.xyz/user/shop",
           "description": "",
-          "icon": "/sitelogo/www.sketch.com.ico"
+          "icon": "/sitelogo/gsouoit.xyz.ico"
         },
         {
           "id": "HKVmshell",
           "name": "香港Vmshell",
           "url": "https://admin.vmshell.com/home.php",
           "description": "",
-          "icon": "/sitelogo/www.canva.com.ico"
+          "icon": "/sitelogo/admin.vmshell.com.ico"
         },
         {
           "id": "Orangevps",
           "name": "Orangevps",
           "url": "https://portal.orangevps.com/clientarea.php?action=productdetails&id=3072#tabOverview",
           "description": "",
-          "icon": "/sitelogo/www.adobe.com.ico"
+          "icon": "/sitelogo/portal.orangevps.com.ico"
+        }
+      ]
+    },
+    {
+      "id": "category-1753893621011",
+      "icon": "🎨",
+      "name": "NSFW",
+      "order": 0,
+      "sites": [
+        {
+          "id": "site-1753893674526",
+          "name": "Instagram",
+          "url": "https://www.instagram.com/",
+          "description": "",
+          "icon": "/sitelogo/www.instagram.com.ico"
+        },
+        {
+          "id": "site-1753893695222",
+          "name": "Pornhub",
+          "url": "https://cn.pornhub.com/",
+          "description": "",
+          "icon": "/sitelogo/cn.pornhub.com.ico"
+        },
+        {
+          "id": "site-1753893741422",
+          "name": "JableTV",
+          "url": "https://jable.tv/",
+          "description": "",
+          "icon": "/sitelogo/jable.tv.ico"
+        },
+        {
+          "id": "site-1753893785335",
+          "name": "Sexbjcam",
+          "url": "https://sexbjcam.com/",
+          "description": "",
+          "icon": "/sitelogo/sexbjcam.com.ico"
         }
       ]
     }
