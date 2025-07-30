@@ -11,21 +11,21 @@ export const mockData = {
           "name": "Google",
           "url": "https://www.google.com",
           "description": " ",
-          "icon": "/sitelogo/www.google.com.ico"
+          "icon": "https://www.google.com/favicon.ico"
         },
         {
           "id": "Yandex",
           "name": "Yandex",
           "url": "https://www.yandex.com",
           "description": " ",
-          "icon": "/sitelogo/www.yandex.com.ico"
+          "icon": "https://www.yandex.com/favicon.ico"
         },
         {
           "id": "zhihu",
           "name": "知乎",
           "url": "https://www.zhihu.com",
           "description": " ",
-          "icon": "/sitelogo/www.zhihu.com.ico"
+          "icon": "https://www.zhihu.com/favicon.ico"
         },
         {
           "id": "github",
@@ -39,7 +39,7 @@ export const mockData = {
           "name": "Boss直聘",
           "url": "https://www.zhipin.com/",
           "description": " ",
-          "icon": "/sitelogo/www.zhipin.com.ico"
+          "icon": "https://www.zhipin.com/favicon.ico"
         }
       ]
     },
@@ -54,35 +54,35 @@ export const mockData = {
           "name": "DeepSeek",
           "url": "https://www.volcengine.com/experience/ark?model=deepseek-r1-250528",
           "description": "",
-          "icon": "/sitelogo/www.volcengine.com.ico"
+          "icon": "https://lf3-static.bytednsdoc.com/obj/eden-cn/shayvw_lmjsvc/ljhwZthlaukjlkulzlp/logo-theme-light.svg"
         },
         {
           "id": "DeepResearch",
           "name": "DeepResearch",
           "url": "https://metaso.cn/",
           "description": "",
-          "icon": "/sitelogo/metaso.cn.ico"
+          "icon": "/https://metaso.cn/favicon.ico"
         },
         {
           "id": "HuoShan",
           "name": "火山引擎",
           "url": "https://www.volcengine.com/",
           "description": "",
-          "icon": "/sitelogo/www.volcengine.com.ico"
+          "icon": "https://lf3-static.bytednsdoc.com/obj/eden-cn/shayvw_lmjsvc/ljhwZthlaukjlkulzlp/logo-theme-light.svg"
         },
         {
           "id": "aws",
           "name": "Aws",
           "url": "https://aws.com/",
           "description": "",
-          "icon": "/sitelogo/aws.com.ico"
+          "icon": "https://aws.amazon.com/favicon.ico"
         },
         {
           "id": "cloudflare",
           "name": "Cloudflare",
           "url": "https://dash.cloudflare.com/",
           "description": "",
-          "icon": "/sitelogo/dash.cloudflare.com.ico"
+          "icon": "https://dash.cloudflare.com/static/vendor/onetrust/oneTrust_production/consent/bbd9e347-d67f-48f1-bdc2-682831c03425/018debfb-4917-7240-8079-97e0dab8e6ca/logos/6b10d640-dc80-4fbf-a462-ae81dbad56e4/f2b3f698-2a83-400c-ab3d-ae88a0a1d3c4/fca68c5f-051b-4269-9463-b0ba60c90bde/Logo.png"
         }
       ]
     },
@@ -97,48 +97,49 @@ export const mockData = {
           "name": "B站",
           "url": "https://www.bilibili.com/",
           "description": "",
-          "icon": "/sitelogo/www.bilibili.com.ico"
+          "icon": "/sitelogo/www.cloudflare.com.ico"
         },
         {
           "id": "Youtube",
           "name": "Youtube",
           "url": "https://www.youtube.com/",
           "description": "",
-          "icon": "/sitelogo/www.youtube.com.ico"
+          "icon": "/sitelogo/vercel.com.ico"
         },
         {
           "id": "TopHub",
           "name": "今日新闻",
           "url": "https://tophub.today/",
           "description": "",
-          "icon": "/sitelogo/tophub.today.ico"
+          "icon": "/https://file.ibmwclub.com/tophub/assets/images/logo.png"
         },
         {
           "id": "TV",
           "name": "电视剧站",
           "url": "https://www.youknow.tv/",
           "description": "",
-          "icon": "/sitelogo/www.youknow.tv.ico"
+          "icon": "https://www.youknow.tv/favicon-32x32.png"
         },
         {
           "id": "Linuxdo",
           "name": "Linuxdo",
           "url": "https://linux.do/",
           "description": "",
-          "icon": "/sitelogo/linux.do.ico"
+          "icon": "/sitelogo/cloud.tencent.com.ico"
         },
         {
           "id": "NGA",
           "name": "NGA",
           "url": "https://bbs.nga.cn/",
           "description": "",
-          "icon": "/sitelogo/bbs.nga.cn.ico"
+          "icon": "https://bbs.nga.cn/favicon.ico"
         },
         {
           "id": "Xiaohongshu",
           "name": "小红书",
-          "url": "https://www.xiaohongshu.com",
-          "description": ""
+          "url": "https://www.xiaohongshu.com/explore",
+          "description": "",
+          "icon": "https://fe-video-qc.xhscdn.com/fe-platform/ed8fe781ce9e16c1bfac2cd962f0721edabe2e49.ico"
         }
       ]
     },
@@ -153,56 +154,56 @@ export const mockData = {
           "name": "AI工具集",
           "url": "https://ai-bot.cn",
           "description": "",
-          "icon": "/sitelogo/ai-bot.cn.ico"
+          "icon": "/https://ai-bot.cn/wp-content/uploads/2023/07/ai-bot-favicon.png"
         },
         {
           "id": "Coze",
           "name": "扣子",
           "url": "https://www.coze.cn/home",
           "description": "",
-          "icon": "/sitelogo/www.coze.cn.ico"
+          "icon": "https://lf-coze-web-cdn.coze.cn/obj/coze-web-cn/obric/coze/favicon.1970.png"
         },
         {
           "id": "Dify",
           "name": "Dify",
           "url": "https://cloud.dify.ai/apps",
           "description": "",
-          "icon": "/sitelogo/cloud.dify.ai.ico"
+          "icon": "https://cloud.dify.ai/favicon.ico"
         },
         {
           "id": "Baidu",
           "name": "飞桨社区",
           "url": "https://aistudio.baidu.com/projectoverview",
           "description": "",
-          "icon": "/sitelogo/aistudio.baidu.com.ico"
+          "icon": "https://paddlepaddle-org-cn.cdn.bcebos.com/paddle-site-front/favicon-48.png"
         },
         {
           "id": "zhipu",
           "name": "GLM智谱",
           "url": "https://chat.z.ai/",
           "description": "",
-          "icon": "/sitelogo/chat.z.ai.ico"
+          "icon": "https://www.gstatic.com/lamda/images/gemini_sparkle_4g_512_lt_f94943af3be039176192d.png"
         },
         {
           "id": "Gemini",
           "name": "Gemini",
           "url": "https://gemini.google.com/app?hl=en",
           "description": "",
-          "icon": "/sitelogo/gemini.google.com.ico"
+          "icon": "https://www.gstatic.com/lamda/images/gemini_sparkle_4g_512_lt_f94943af3be039176192d.png"
         },
         {
           "id": "Meitu",
           "name": "美图AI",
           "url": "https://www.whee.com/",
           "description": "",
-          "icon": "/sitelogo/www.whee.com.ico"
+          "icon": "/https://www.whee.com/aigc/favicon.ico"
         }
       ]
     },
     {
       "id": "vps",
       "name": "机场",
-      "icon": "🎨",
+      "icon": "📁",
       "order": 4,
       "sites": [
         {
@@ -210,36 +211,36 @@ export const mockData = {
           "name": "IP-Checker",
           "url": "https://www.vps234.com/ipchecker/",
           "description": "",
-          "icon": "/sitelogo/www.vps234.com.ico"
+          "icon": "https://www.vps234.com/favicon.ico"
         },
         {
           "id": "Mainvps",
           "name": "主机场",
           "url": "https://gsouoit.xyz/user/shop",
           "description": "",
-          "icon": "/sitelogo/gsouoit.xyz.ico"
+          "icon": "https://metron.gsou.info/images/logo/win-3.png"
         },
         {
           "id": "HKVmshell",
           "name": "香港Vmshell",
           "url": "https://admin.vmshell.com/home.php",
           "description": "",
-          "icon": "/sitelogo/admin.vmshell.com.ico"
+          "icon": "https://admin.vmshell.com/favicon.ico"
         },
         {
           "id": "Orangevps",
           "name": "Orangevps",
           "url": "https://portal.orangevps.com/clientarea.php?action=productdetails&id=3072#tabOverview",
           "description": "",
-          "icon": "/sitelogo/portal.orangevps.com.ico"
+          "icon": "https://portal.orangevps.com/templates/kohost/img/favicon.png"
         }
       ]
     },
     {
       "id": "category-1753893621011",
-      "icon": "🎨",
+      "icon": "📁",
       "name": "NSFW",
-      "order": 0,
+      "order": 5,
       "sites": [
         {
           "id": "site-1753893674526",
@@ -268,6 +269,13 @@ export const mockData = {
           "url": "https://sexbjcam.com/",
           "description": "",
           "icon": "/sitelogo/sexbjcam.com.ico"
+        },
+        {
+          "id": "site-porn",
+          "name": "porntrex",
+          "url": "https://www.porntrex.com",
+          "description": "",
+          "icon": "https://ptx.cdntrex.com/favicon.ico"
         }
       ]
     }
