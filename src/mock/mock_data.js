@@ -97,7 +97,7 @@ export const mockData = {
           "name": "B站",
           "url": "https://www.bilibili.com/",
           "description": "",
-          "icon": "https://i0.hdslb.com/bfs/static/jinkela/long/images/favicon.ico"
+          "icon": "https://zmtimg.dfcfw.com/31aac653008d46ceaa117b759486960d.em/art"
         },
         {
           "id": "Youtube",
