@@ -32,7 +32,7 @@ export const mockData = {
           "name": "GitHub",
           "url": "https://github.com",
           "description": "",
-          "icon": "/sitelogo/github.com.ico"
+          "icon": "https://github.githubassets.com/assets/apple-touch-icon-144x144-b882e354c005.png"
         },
         {
           "id": "Boss",
@@ -61,7 +61,7 @@ export const mockData = {
           "name": "DeepResearch",
           "url": "https://metaso.cn/",
           "description": "",
-          "icon": "/https://metaso.cn/favicon.ico"
+          "icon": "https://metaso.cn/favicon.ico"
         },
         {
           "id": "HuoShan",
@@ -97,21 +97,21 @@ export const mockData = {
           "name": "B站",
           "url": "https://www.bilibili.com/",
           "description": "",
-          "icon": "/sitelogo/www.cloudflare.com.ico"
+          "icon": "https://i0.hdslb.com/bfs/static/jinkela/long/images/favicon.ico"
         },
         {
           "id": "Youtube",
           "name": "Youtube",
           "url": "https://www.youtube.com/",
           "description": "",
-          "icon": "/sitelogo/vercel.com.ico"
+          "icon": "https://www.youtube.com/s/desktop/fb317ea9/img/logos/favicon.ico"
         },
         {
           "id": "TopHub",
           "name": "今日新闻",
           "url": "https://tophub.today/",
           "description": "",
-          "icon": "/https://file.ibmwclub.com/tophub/assets/images/logo.png"
+          "icon": "https://file.ibmwclub.com/tophub/assets/images/logo.png"
         },
         {
           "id": "TV",
@@ -125,7 +125,7 @@ export const mockData = {
           "name": "Linuxdo",
           "url": "https://linux.do/",
           "description": "",
-          "icon": "/sitelogo/cloud.tencent.com.ico"
+          "icon": "https://wiki.linux.do/logo.png"
         },
         {
           "id": "NGA",
@@ -139,7 +139,7 @@ export const mockData = {
           "name": "小红书",
           "url": "https://www.xiaohongshu.com/explore",
           "description": "",
-          "icon": "https://fe-video-qc.xhscdn.com/fe-platform/ed8fe781ce9e16c1bfac2cd962f0721edabe2e49.ico"
+          "icon": "https://p9.itc.cn/q_70/images03/20200619/1c414188456f4598b7b4d43bd16a490a.png"
         }
       ]
     },
@@ -154,7 +154,7 @@ export const mockData = {
           "name": "AI工具集",
           "url": "https://ai-bot.cn",
           "description": "",
-          "icon": "/https://ai-bot.cn/wp-content/uploads/2023/07/ai-bot-favicon.png"
+          "icon": "https://ai-bot.cn/wp-content/uploads/2023/07/ai-bot-favicon.png"
         },
         {
           "id": "Coze",
@@ -182,7 +182,7 @@ export const mockData = {
           "name": "GLM智谱",
           "url": "https://chat.z.ai/",
           "description": "",
-          "icon": "https://www.gstatic.com/lamda/images/gemini_sparkle_4g_512_lt_f94943af3be039176192d.png"
+          "icon": "https://pic.rmb.bdstatic.com/bjh/3ea22bb4d8f/250423/c50d7f70e2d177ad08650bf8eddbd057.jpeg?x-bce-process=image/watermark,bucket_baidu-rmb-video-cover-1,image_YmpoL25ld3MvNjUzZjZkMjRlMDJiNjdjZWU1NzEzODg0MDNhYTQ0YzQucG5n,type_RlpMYW5UaW5nSGVpU01HQg==,w_9,text_QOa4r-e-juWkp-i1ouWutg==,size_9,x_7,y_7,interval_2,color_FFFFFF,effect_softoutline,shc_000000,blr_2,align_1"
         },
         {
           "id": "Gemini",
@@ -196,7 +196,7 @@ export const mockData = {
           "name": "美图AI",
           "url": "https://www.whee.com/",
           "description": "",
-          "icon": "/https://www.whee.com/aigc/favicon.ico"
+          "icon": "https://img1.baidu.com/it/u=3774904806,1092827025&fm=253&fmt=auto&app=120&f=PNG?w=500&h=500"
         }
       ]
     },
@@ -247,14 +247,14 @@ export const mockData = {
           "name": "Instagram",
           "url": "https://www.instagram.com/",
           "description": "",
-          "icon": "/sitelogo/www.instagram.com.ico"
+          "icon": "https://static.cdninstagram.com/rsrc.php/y4/r/QaBlI0OZiks.ico"
         },
         {
           "id": "site-1753893695222",
           "name": "Pornhub",
           "url": "https://cn.pornhub.com/",
           "description": "",
-          "icon": "/sitelogo/cn.pornhub.com.ico"
+          "icon": "https://cn.pornhub.com/favicon.ico"
         },
         {
           "id": "site-1753893741422",
@@ -272,10 +272,31 @@ export const mockData = {
         },
         {
           "id": "site-porn",
-          "name": "porntrex",
+          "name": "Porntrex",
           "url": "https://www.porntrex.com",
           "description": "",
           "icon": "https://ptx.cdntrex.com/favicon.ico"
+        },
+        {
+          "id": "site-sybil",
+          "name": "Sybil Sybilraw",
+          "url": "https://www.google.com/search?num=10&newwindow=1&sca_esv=7f320e2b1e22baf4&q=sybil+sybilraw&source=lnms&fbs=AIIjpHybaGNnaZw_4TckIDK59Rtx7EmYoHRazOl26McMSIhEN76r--b_JoN4qNq4Vf6qU60ZueMRMQd5gh_EynxGGtTWmXgNmSiYGQR9AWKrQTvYtq1yVE0ra2K3slQ_SPNEFOpTj6fG59IUtwqZgH-_VemF3wNuGMlfws2TJQZ-XxL81ot4CzKyskswum-m8_87qvFTwWAX&sa=X&ved=2ahUKEwiRo-LKkOWOAxWyavUHHVJWDLEQ0pQJegQIDhAB&biw=2371&bih=1155&dpr=1.08",
+          "description": "",
+          "icon": "https://www.google.com/favicon.ico"
+        },
+        {
+          "id": "site-Lana",
+          "name": "Lana Rhoades",
+          "url": "https://www.google.com/search?q=Lana+Rhoades&oq=Lana+Rhoades&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzY0NGowajeoAgiwAgE&sourceid=chrome&ie=UTF-8",
+          "description": "",
+          "icon": "https://www.google.com/favicon.ico"
+        },
+        {
+          "id": "site-Charly",
+          "name": "Charly Summer",
+          "url": "https://www.google.com/search?q=Charly+Summer&num=10&newwindow=1&sca_esv=7f320e2b1e22baf4&ei=YVqKaJ2qEO2Vvr0PnO2HwQU&ved=0ahUKEwjd3trMkeWOAxXtiq8BHZz2IVgQ4dUDCBA&oq=Charly+Summer&gs_lp=Egxnd3Mtd2l6LXNlcnAiDUNoYXJseSBTdW1tZXJIl2ZQlmBYlmBwAngAkAEAmAGAAaABgAGqAQMwLjG4AQzIAQD4AQL4AQGYAgCgAgCYAwCIBgGSBwCgB0eyBwC4BwDCBwDIBwA&sclient=gws-wiz-serp",
+          "description": "",
+          "icon": "https://www.google.com/favicon.ico"
         }
       ]
     }
