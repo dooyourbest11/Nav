@@ -1,7 +1,7 @@
 export const mockData = {
   "categories": [
     {
-      "id": "my-favorites",
+      "id": "favorites",
       "name": "常用",
       "icon": "💥",
       "order": 0,
