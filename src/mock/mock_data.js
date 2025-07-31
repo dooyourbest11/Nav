@@ -78,6 +78,13 @@ export const mockData = {
           "icon": "https://aws.amazon.com/favicon.ico"
         },
         {
+          "id": "site-1753954851156",
+          "name": "Google AI Studio",
+          "url": "https://aistudio.google.com/prompts/new_chat",
+          "description": "",
+          "icon": "https://www.gstatic.com/aistudio/ai_studio_favicon_2_32x32.svg"
+        },
+        {
           "id": "cloudflare",
           "name": "Cloudflare",
           "url": "https://dash.cloudflare.com/",
