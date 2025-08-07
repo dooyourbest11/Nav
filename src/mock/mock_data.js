@@ -40,6 +40,13 @@ export const mockData = {
           "url": "https://www.zhipin.com/",
           "description": " ",
           "icon": "https://www.zhipin.com/favicon.ico"
+        },
+        {
+          "id": "site-1754543126174",
+          "name": "微信读书",
+          "url": "https://weread.qq.com/web/shelf",
+          "description": "",
+          "icon": "https://rescdn.qqmail.com/node/wr/wrpage/style/images/independent/favicon/favicon_32h.png"
         }
       ]
     },
@@ -85,11 +92,25 @@ export const mockData = {
           "icon": "https://www.gstatic.com/aistudio/ai_studio_favicon_2_32x32.svg"
         },
         {
-          "id": "cloudflare",
-          "name": "Cloudflare",
-          "url": "https://dash.cloudflare.com/",
+          "id": "site-1754543530749",
+          "name": "Gemini",
+          "url": "https://gemini.google.com",
           "description": "",
-          "icon": "https://dash.cloudflare.com/static/vendor/onetrust/oneTrust_production/consent/bbd9e347-d67f-48f1-bdc2-682831c03425/018debfb-4917-7240-8079-97e0dab8e6ca/logos/6b10d640-dc80-4fbf-a462-ae81dbad56e4/f2b3f698-2a83-400c-ab3d-ae88a0a1d3c4/fca68c5f-051b-4269-9463-b0ba60c90bde/Logo.png"
+          "icon": "https://www.gstatic.com/lamda/images/gemini_sparkle_4g_512_lt_f94943af3be039176192d.png"
+        },
+        {
+          "id": "site-1754543554921",
+          "name": "ChatGPT",
+          "url": "https://chatgpt.com",
+          "description": "",
+          "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/ChatGPT-Logo.svg/250px-ChatGPT-Logo.svg.png"
+        },
+        {
+          "id": "cloudflare",
+          "name": "机器学习课程",
+          "url": "https://developers.google.cn/machine-learning/crash-course?hl=zh-cn https://www.google.com/favicon.ico",
+          "description": "",
+          "icon": "https://www.google.com/favicon.ico"
         }
       ]
     },
@@ -240,6 +261,92 @@ export const mockData = {
           "url": "https://portal.orangevps.com/clientarea.php?action=productdetails&id=3072#tabOverview",
           "description": "",
           "icon": "https://portal.orangevps.com/templates/kohost/img/favicon.png"
+        },
+        {
+          "id": "site-1754543670879",
+          "name": "本站 Git",
+          "url": "https://github.com/dooyourbest11/Nav",
+          "description": "",
+          "icon": "https://github.githubassets.com/assets/apple-touch-icon-144x144-b882e354c005.png"
+        },
+        {
+          "id": "site-1754543705141",
+          "name": "Cloudflare",
+          "url": "https://dash.cloudflare.com/",
+          "description": "",
+          "icon": "https://dash.cloudflare.com/static/vendor/onetrust/oneTrust_production/consent/bbd9e347-d67f-48f1-bdc2-682831c03425/018debfb-4917-7240-8079-97e0dab8e6ca/logos/6b10d640-dc80-4fbf-a462-ae81dbad56e4/f2b3f698-2a83-400c-ab3d-ae88a0a1d3c4/fca68c5f-051b-4269-9463-b0ba60c90bde/Logo.png"
+        },
+        {
+          "id": "site-1754543751222",
+          "name": "OpenClash 规则",
+          "url": "https://github.com/v2fly/domain-list-community/tree/master/data",
+          "description": "",
+          "icon": "https://en.clashx.org/wp-content/uploads/2024/01/ClashX-icon.png"
+        },
+        {
+          "id": "site-1754543780970",
+          "name": "OpenClash 设置",
+          "url": "https://github.com/Aethersailor/Custom_OpenClash_Rules?tab=readme-ov-file",
+          "description": "",
+          "icon": "https://en.clashx.org/wp-content/uploads/2024/01/ClashX-icon.png"
+        }
+      ]
+    },
+    {
+      "id": "category-1754541068346",
+      "icon": "📁",
+      "name": "工具 & Mail",
+      "order": 5,
+      "sites": [
+        {
+          "id": "site-1754543814806",
+          "name": "Gmail",
+          "url": "https://mail.google.com/mail/u/0/#inbox",
+          "description": "",
+          "icon": "https://gimg3.baidu.com/topone/src=https%3A%2F%2Fbkimg.cdn.bcebos.com%2Fsmart%2Fa2cc7cd98d1001e939012018d9446cec54e736d139d8-bkimg-process%2Cv_1%2Crw_1%2Crh_1%2Cmaxl_800%2Cpad_1%3Fx-bce-process%3Dimage%2Fresize%2Cm_pad%2Cw_348%2Ch_348%2Ccolor_ffffff&refer=http%3A%2F%2Fwww.baidu.com&app=2011&size=f200,200&n=0&g=0n&er=404&q=75&fmt=auto&maxorilen2heic=2000000?sec=1754672400&t=ad3ddc4efb1e4678be2f84c2cd0e1bce"
+        },
+        {
+          "id": "site-1754543863935",
+          "name": "QQ邮箱",
+          "url": "https://mail.qq.com/cgi-bin/frame_html?sid=C6wdQ39Vyr8rIBZ_&r=9d9c715cf4bf97094484f0a6edf8dfa3&lang=zh",
+          "description": "",
+          "icon": "https://bizaladdin-image.baidu.com/0/pic/479424116_228947588_1957358292.png"
+        },
+        {
+          "id": "site-1754543905326",
+          "name": "Icon 转换",
+          "url": "https://ico.nyaasu.top/",
+          "description": "",
+          "icon": "https://en.clashx.org/wp-content/uploads/2024/01/ClashX-icon.png"
+        }
+      ]
+    },
+    {
+      "id": "category-1754541101864",
+      "icon": "📁",
+      "name": "Image",
+      "order": 6,
+      "sites": [
+        {
+          "id": "site-1754543928846",
+          "name": "Google Image",
+          "url": "https://images.google.com/?gl=us",
+          "description": "",
+          "icon": "https://www.google.com/favicon.ico"
+        },
+        {
+          "id": "site-1754543943472",
+          "name": "Yandex Image",
+          "url": "https://yandex.com/images",
+          "description": "",
+          "icon": "https://www.yandex.com/favicon.ico"
+        },
+        {
+          "id": "site-1754543999252",
+          "name": "Tineye 反查",
+          "url": "https://tineye.com",
+          "description": "",
+          "icon": "https://tineye.com/assets/nav-logo@2x--eZZ10SK.png"
         }
       ]
     },
@@ -247,7 +354,7 @@ export const mockData = {
       "id": "category-1753893621011",
       "icon": "📁",
       "name": "NSFW",
-      "order": 5,
+      "order": 7,
       "sites": [
         {
           "id": "site-1753893674526",
@@ -304,6 +411,13 @@ export const mockData = {
           "url": "https://www.google.com/search?q=Charly+Summer&num=10&newwindow=1&sca_esv=7f320e2b1e22baf4&ei=YVqKaJ2qEO2Vvr0PnO2HwQU&ved=0ahUKEwjd3trMkeWOAxXtiq8BHZz2IVgQ4dUDCBA&oq=Charly+Summer&gs_lp=Egxnd3Mtd2l6LXNlcnAiDUNoYXJseSBTdW1tZXJIl2ZQlmBYlmBwAngAkAEAmAGAAaABgAGqAQMwLjG4AQzIAQD4AQL4AQGYAgCgAgCYAwCIBgGSBwCgB0eyBwC4BwDCBwDIBwA&sclient=gws-wiz-serp",
           "description": "",
           "icon": "https://www.google.com/favicon.ico"
+        },
+        {
+          "id": "site-1754544019852",
+          "name": "Dropbox",
+          "url": "https://www.dropbox.com/",
+          "description": "",
+          "icon": "https://cfl.dropboxstatic.com/static/metaserver/static/images/favicon.ico"
         }
       ]
     }
