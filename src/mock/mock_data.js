@@ -168,6 +168,27 @@ export const mockData = {
           "url": "https://www.xiaohongshu.com/explore",
           "description": "",
           "icon": "https://p9.itc.cn/q_70/images03/20200619/1c414188456f4598b7b4d43bd16a490a.png"
+        },
+        {
+          "id": "Oule",
+          "name": "欧乐影院",
+          "url": "https://www.olehdtv.com",
+          "description": "",
+          "icon": "https://static.olelive.com/upload/site/20201117-1/d2035d18801242fc62991b32d6366bf8.png"
+        },
+        {
+          "id": "TMDB",
+          "name": "TMDB 电影",
+          "url": "https://vidlink.pro",
+          "description": "",
+          "icon": "https://www.themoviedb.org/assets/2/favicon-32x32-543a21832c8931d3494a68881f6afcafc58e96c5d324345377f3197a37b367b5.png"
+        },
+        {
+          "id": "TMDBquery",
+          "name": "TMDB 查询",
+          "url": "https://www.themoviedb.org/movie",
+          "description": "",
+          "icon": "https://www.themoviedb.org/assets/2/favicon-32x32-543a21832c8931d3494a68881f6afcafc58e96c5d324345377f3197a37b367b5.png"
         }
       ]
     },
@@ -289,6 +310,27 @@ export const mockData = {
           "url": "https://github.com/Aethersailor/Custom_OpenClash_Rules?tab=readme-ov-file",
           "description": "",
           "icon": "https://en.clashx.org/wp-content/uploads/2024/01/ClashX-icon.png"
+        },
+        {
+          "id": "ClashDNS",
+          "name": "Clash DNS防泄露",
+          "url": "https://lainbo.dev/clash-config",
+          "description": "",
+          "icon": "https://en.clashx.org/wp-content/uploads/2024/01/ClashX-icon.png"
+        },
+        {
+          "id": "ClashTrans",
+          "name": "Clash 订阅转换",
+          "url": "https://sub.lainbo.com/",
+          "description": "",
+          "icon": "https://en.clashx.org/wp-content/uploads/2024/01/ClashX-icon.png"
+        },
+        {
+          "id": "Clashdownload",
+          "name": "Clash 下载",
+          "url": "https://github.com/clash-verge-rev/clash-verge-rev/releases",
+          "description": "",
+          "icon": "https://en.clashx.org/wp-content/uploads/2024/01/ClashX-icon.png"
         }
       ]
     },
@@ -318,6 +360,34 @@ export const mockData = {
           "url": "https://ico.nyaasu.top/",
           "description": "",
           "icon": "https://en.clashx.org/wp-content/uploads/2024/01/ClashX-icon.png"
+        },
+        {
+          "id": "FakeID",
+          "name": "Fake信息 生成器",
+          "url": "https://veriftools.net",
+          "description": "",
+          "icon": "https://www.vps234.com/favicon.ico"
+        },
+        {
+          "id": "FakeLocation",
+          "name": "随机地址 生成器",
+          "url": "https://addressgenerator.top/zh/us-address-generator",
+          "description": "",
+          "icon": "https://www.vps234.com/favicon.ico"
+        },
+        {
+          "id": "SMS",
+          "name": "接码大全",
+          "url": "https://openi.cn/favorites/2552.html",
+          "description": "",
+          "icon": "https://www.vps234.com/favicon.ico"
+        },
+        {
+          "id": "SMSpig",
+          "name": "豪猪接码",
+          "url": "https://h5.haozhuyun.com/index.php",
+          "description": "",
+          "icon": "https://www.vps234.com/favicon.ico"
         }
       ]
     },
@@ -418,6 +488,41 @@ export const mockData = {
           "url": "https://www.dropbox.com/",
           "description": "",
           "icon": "https://cfl.dropboxstatic.com/static/metaserver/static/images/favicon.ico"
+        },
+        {
+          "id": "site-Threads",
+          "name": "Threads",
+          "url": "https://www.threads.com/",
+          "description": "",
+          "icon": "https://play-lh.googleusercontent.com/G6jK9S77RN0laf9_6nhDo3AVxbRP9SgMmt8ZmQjKQ2hibn9xhOY-W5YFn_7stJD1CA=w240-h480-rw"
+        },
+        {
+          "id": "site-Reddit",
+          "name": "Reddit",
+          "url": "https://www.reddit.com/",
+          "description": "",
+          "icon": "https://www.redditstatic.com/shreddit/assets/favicon/64x64.png"
+        },
+        {
+          "id": "site-X",
+          "name": "X",
+          "url": "https://x.com/home",
+          "description": "",
+          "icon": "https://abs.twimg.com/favicons/twitter-pip.3.ico"
+        },
+        {
+          "id": "site-Yellowbook",
+          "name": "Yellowbook",
+          "url": "https://xchina.site/",
+          "description": "",
+          "icon": "https://styles.redditmedia.com/t5_2t1la/styles/communityIcon_ingen9hmzbwe1.png?width=48&height=48&frame=1&auto=webp&crop=48:48,smart&s=2d04845ec7c063fe92a39d13e2c3e3b5814476f1"
+        },
+        {
+          "id": "site-v2ph",
+          "name": "微图",
+          "url": "https://www.v2ph.ru/",
+          "description": "",
+          "icon": "https://styles.redditmedia.com/t5_2t1la/styles/communityIcon_ingen9hmzbwe1.png?width=48&height=48&frame=1&auto=webp&crop=48:48,smart&s=2d04845ec7c063fe92a39d13e2c3e3b5814476f1"
         }
       ]
     }
